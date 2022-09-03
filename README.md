@@ -26,7 +26,7 @@ We strongly believe in being open-source and transparent in the work we do. If y
 3. We'll discuss it and come to consensus at the next governance meeting.  
 
 
-If you would like to vote and be part of the decision making process, apply to be a member of the club [here](https://cmublockchain.xyz/members). 
+If you would like to be a token delegate and be part of the decision making process, apply to be a member of the club first [here](https://cmublockchain.xyz/members). 
 
 ## Treasury
 
