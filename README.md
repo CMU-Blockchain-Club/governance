@@ -2,7 +2,7 @@
 
 <h1 align="center"> CMU Blockchain Governance </h1> <br>
 <p align="center">
-![cbgLogo](cbgLogo.png)
+![cbgLogo](https://github.com/CMU-Blockchain-Club/governance/blob/e03824ea7981aed0dca96dd70dc9a7a29fb00c27/cbgLogo.png)
 </p>
 
 ## Table of Contents
