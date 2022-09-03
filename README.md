@@ -1,15 +1,14 @@
-# governance
-
 <h1 align="center"> CMU Blockchain Governance </h1> <br>
 
-![cbgLogo](https://github.com/CMU-Blockchain-Club/governance/blob/e03824ea7981aed0dca96dd70dc9a7a29fb00c27/cbgLogo.png)
-
+<p align="center">
+  <img src="https://github.com/CMU-Blockchain-Club/governance/blob/e03824ea7981aed0dca96dd70dc9a7a29fb00c27/cbgLogo.png" />
+</p>
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Treasury](#treasury)
 - [How to Contribute](#contribute)
+- [Treasury](#treasury)
 - [Sample Protocol 1](#sample1)
 - [Sample Protocol 2](#sample2)
 
@@ -35,10 +34,9 @@ This section details the amount of tokens we govern, and for how long.
 
 
 
+## Sample1
 
-## Sample 1
-
-## Sample 2
+## Sample2
 
 ## Contributors
 
