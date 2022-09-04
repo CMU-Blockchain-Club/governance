@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Hello! Welcome to the CMU Blockchain Governance repository. We are currently working on DeFi governance for several protocols, and this repo will contain all you need to know to contribute/ what we are currently working on. Head over to the individual protocol folders for more specific information to each protocol, or the voting folder to see how our process works. 
+Hello! Welcome to the CMU Blockchain Governance repository. We are currently working on DeFi governance for several protocols, and this repo will contain what we are currently working on and contribution guidelines. Head over to the individual protocol folders for more specific information on each protocol, or the voting folder to see how our process works. 
 
 ## Contribute
 
