@@ -21,4 +21,4 @@ The Head of Governance should initiate votes on proposals/ be in charge of submi
 
 ### Transfer Process
 
-During handovers, the person in each role will hand down the metamask accounts via sharing the private keys of each account to their successor. They will also hand down the physical artifact containing the seed phrase. 
+During handovers, the addresses needed for signatures in the gnosis wallet will be edited. The wallet addresses of the new position holders will be reflected in the gnosis wallet. 
